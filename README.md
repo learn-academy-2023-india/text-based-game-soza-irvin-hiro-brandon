@@ -31,6 +31,11 @@ The most important part of this project is the planning phase. Work with your te
 
 You need to decide how your user will interact with your code. Every option you present will need to be followed with an action. If you choose to create multiple storylines your code base will need to reflect all the possible actions. Each storyline can be a unique adventure in which some are successful and others are not.
 
+GAME NAME: Raidiation Run!
+Survival -type 
+Pills make you immune 100 pts = win. normal 50 pills 2pts each
+hit by sun = 25% damage, 100% damage = lose
+
 ### 🎮 Game Play
 
 The game will take place entirely in the terminal. All interactions between the user and the game are text-based. The user will see a story printed in the terminal and then be presented with options that will determine the story's next phase. The user will type their selection into the terminal.
