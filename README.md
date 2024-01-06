@@ -59,3 +59,10 @@ Each team will give a brief (five minute) presentation of their application. Pre
 - First team member: What was your team's planning process?
 - Second team member: Show us one built in Ruby method your team used and explain what it is doing.
 - Third team member: What did your team get stuck on and how did you overcome this challenge?
+
+
+
+GAME NAME: Raidiation Run!
+Survival -type 
+Pills make you immune 100 pts = win. normal # of immune pills
+hit by sun = # of damage, 100% damage = lose
